@@ -1,6 +1,6 @@
-//codigo normalizado
-// Criado opor grupo 2
-// Correção de Alexandre A. Cavalari
+// Código normalizado;
+// Criado por grupo 2;
+// Correção de Alexandre A. Cavalari;
 
 programa {
 
@@ -129,7 +129,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 80; 
+ * @POSICAO-CURSOR = 83; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
